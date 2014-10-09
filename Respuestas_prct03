@@ -1,0 +1,10 @@
+18-) 
+
+Resp: " => nil "
+
+21-)
+
+Resp: " La principal diferencia es que si ejecutamos el comando en irb mostrará "Hola Mundo" directamente y seguidamente se quedará esperando la consola a que se introduzca otro comando o se envie una señal de terminal la ejecución en IRB. En el caso de ejecutar el fichero irb simplemente ejecutará el fichero y no esperará la consola a que se introduzcan otros comandos.
+
+
+	
