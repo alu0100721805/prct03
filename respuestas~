@@ -24,6 +24,5 @@ Resp: " La principal diferencia es que si ejecutamos el comando en irb mostrará
 
  26.6-) Resp: Se muestra "program resumes here. Value of x is: changed."
 
-27-) El interprete IRB no deja modificar el valor de los objetos a diferencia del "pry" que sí lo permite en tiempo real.
 
 
